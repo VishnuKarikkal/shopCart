@@ -1,0 +1,122 @@
+[{
+    "slno": "1",
+    "name": "അരി",
+    "quantity": "20",
+    "unit": "KG",
+    "department": "stationary",
+    "note": "basmati rice"
+
+},
+{
+    "slno": "2",
+    "name": "ചേന",
+    "quantity": "2",
+    "unit": "KG",
+    "department": "vegetables",
+    "note": "eatables"
+},
+{
+    "slno": "3",
+    "name": "തേങ്ങ",
+    "quantity": "27",
+    "unit": "KG",
+    "department": "stationary",
+    "note": "farm fresh"
+},
+{
+    "slno": "4",
+    "name": "മല്ലി",
+    "quantity": "300",
+    "unit": "Grams",
+    "department": "stationary",
+    "note": "spices"
+},
+{
+    "slno": "5",
+    "name": "ഇറച്ചി",
+    "quantity": "3",
+    "unit": "KG",
+    "department": "cold-storage",
+    "note": "farm fresh"
+},
+{
+    "slno": "6",
+    "name": "ഉള്ളി",
+    "quantity": "5",
+    "unit": "KG",
+    "department": "vegetables",
+    "note": "farm fresh"
+},
+{
+    "slno": "7",
+    "name": "ഉരുള കിഴങ്ങ്",
+    "quantity": "5",
+    "unit": "KG",
+    "department": "vegetables",
+    "note": "farm fresh"
+},
+{
+    "slno": "8",
+    "name": "ചെറു പയർ",
+    "quantity": "3",
+    "unit": "KG",
+    "department": "vegetables",
+    "note": "supplico outlet"
+},
+{
+    "slno": "9",
+    "name": "ചായ പൊടി",
+    "quantity": "500",
+    "unit": "Grams",
+    "department": "spices",
+    "note": "AVT premium"
+},
+{
+    "slno": "10",
+    "name": "തുവര പരിപ്പ്",
+    "quantity": "5",
+    "unit": "KG",
+    "department": "vegetables",
+    "note": "supplico outlet"
+},
+{
+    "slno": "11",
+    "name": "തക്കാളി",
+    "quantity": "1",
+    "unit": "KG",
+    "department": "vegetables",
+    "note": "farm fresh"
+},
+{
+    "slno": "12",
+    "name": "വാളൻ പുളി",
+    "quantity": "500",
+    "unit": "Grams",
+    "department": "stationary",
+    "note": "farm fresh"
+},
+{
+    "slno": "13",
+    "name": "ഗോതമ്പ്",
+    "quantity": "6",
+    "unit": "KG",
+    "department": "stationary",
+    "note": "supplico outlet"
+},
+{
+    "slno": "14",
+    "name": "മുട്ട",
+    "quantity": "10",
+    "unit": "no.s",
+    "department": "stationary",
+    "note": "farm fresh"
+},
+{
+    "slno": "15",
+    "name": "ചോളം",
+    "quantity": "2",
+    "unit": "KG",
+    "department": "stationary",
+    "note": "supplico outlet"
+}
+]
